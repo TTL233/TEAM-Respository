@@ -1,0 +1,12 @@
+
+.text {
+		font-size: 36rpx;
+		color:#00557f;
+}
+.shape{	
+			padding-top:2rpx;
+			margin-top:110rpx;
+			margin-left:240rpx;
+			font-size: 20rpx;
+}
+

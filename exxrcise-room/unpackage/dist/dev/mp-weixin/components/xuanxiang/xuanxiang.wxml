@@ -1,0 +1,1 @@
+<view><view class="room"><view class="type"><form action="/demo/demo_form.asp"><picker name="分类" class="_select"><view value="跑步" selected="{{true}}" class="_option">跑步</view></picker></form></view></view></view>

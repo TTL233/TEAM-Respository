@@ -1,0 +1,26 @@
+
+.room {
+	    background-color:'#e5e5e5';
+	    color:white;
+		padding:56rpx;
+}
+._select { height: 100rpx;
+  			width: auto;
+}
+.num {
+  	font-size: 36rpx;
+  	color: black;
+  	position: absolute;
+  	margin-left:400rpx;
+	padding-top: -20rpx;
+}
+.type {
+  	font-size: 36rpx;
+  	color: black;
+  	position:absolute;
+  	margin-left:-50rpx;
+	margin-top: -50rpx;
+	padding-top: 20rpx
+}
+  
+
